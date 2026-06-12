@@ -1,1 +1,5 @@
-#hola soy Gabriel y soy un colaborador de este repositorio
+#Hola  este es el trabajo de control de versione
+integrantes:
+Tommy Stven Hernandez
+Mario Yosael Ochoa Lopez
+Gabriel Salinas Garcia
