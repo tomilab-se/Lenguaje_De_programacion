@@ -1,4 +1,2 @@
-# Lenguaje_De_programacion
-Tarea de fundamentoss
-Es sobre lenguaje de programacion , utilizando ramas para trabajar en grupo
+#hola soy Gabriel y soy un colaborador de este repositorio
 
